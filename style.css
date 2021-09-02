@@ -69,6 +69,6 @@ align-content: space-around;
 }
 .white:nth-child(8){
     display: flex;
-    
+    padding-top: 4px;
     justify-content: flex-end;
 }
